@@ -1,0 +1,15 @@
+check,records,pct_of_campaigns
+Missing channel in source,100,5.0
+Unknown channel after standardization,100,5.0
+Unknown campaign tag,100,5.0
+Spend parse failure,0,0.0
+Negative spend,19,0.95
+Clicks > impressions,0,0.0
+Conversions > clicks,0,0.0
+Missing conversions,200,10.0
+Invalid date order,78,3.9
+Start date parse failure,0,0.0
+End date parse failure,0,0.0
+Negative impressions,0,0.0
+Negative clicks,0,0.0
+Negative conversions,0,0.0
